@@ -1,5 +1,7 @@
 # 房貸計算器
 學號：1131203 姓名：侯采妤
+## 使用者畫面
+![使用者畫面](screen1.png)
 ## 使用說明書
 ### 輸入參數說明
 請依序在左側輸入區填寫以下欄位：
@@ -47,7 +49,5 @@
 * 總利息支出：整個貸款週期內支付給銀行的利息總和。
 * 總還款金額：原始本金加上所有利息支出的總額。
 ## 參考資料
-1. 國泰世華銀行房貸試算
-https://www.cathaybk.com.tw/cathaybk/personal/loan/calculator/mortgage-monthly-payments/
-2. 內政部不動產資訊平台公式參考
-https://pip.moi.gov.tw/Publicize/Info/C1040
+1. [國泰世華銀行房貸試算](https://www.cathaybk.com.tw/cathaybk/personal/loan/calculator/mortgage-monthly-payments/)
+2. [內政部不動產資訊平台公式參考](https://pip.moi.gov.tw/Publicize/Info/C1040)
